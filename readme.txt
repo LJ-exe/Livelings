@@ -1,0 +1,1 @@
+This is gonna have a list of all command and how to use them in the terminal!
